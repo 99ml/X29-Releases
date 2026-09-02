@@ -8,11 +8,11 @@
 
 ---
 
-## 🖥️ Painel
+## 🖥️ Panel
 
 **Painel WoozWorld.**
 
----
+----
 
 ## 🛠️ Desenvolvimento
 
@@ -29,7 +29,7 @@
 
 ## 📥 Instalação
 
-Execute `X29-0.1.4-setup.exe` e siga as instruções do instalador.
+Execute `X29-0.1.5-setup.exe` e siga as instruções do instalador.
 
 > **⚠️ Nota**
 >
@@ -41,13 +41,13 @@ Execute `X29-0.1.4-setup.exe` e siga as instruções do instalador.
 
 ## 📦 Download
 
-### X29 0.1.4
+### X29 0.1.5
 
-[⬇️ Baixar X29-0.1.4-setup.exe](https://github.com/99ml/X29-Releases/releases/download/v0.1.4/X29-0.1.4-setup.exe)
+[⬇️ Baixar X29-0.1.5-setup.exe](https://github.com/99ml/X29-Releases/releases/download/v0.1.5/X29-0.1.5-setup.exe)
 
-`SHA-256: 5dfc81e8ce2fd74434ccc8ef7a98f3e62522f7dff268e42d43809c9b9b041a14`
+`SHA-256: B5A22098840D2B8BBD7BF869F08267395F9788D31198EA29BE329EDF88E36589`
 
-**328 MB**
+**344 MB**
 
 ---
 
